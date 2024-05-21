@@ -1,0 +1,17 @@
+.h1{
+  margin-left: 1vw; 
+  text-align: left;
+}
+
+.navbar{
+  background-color: gray;
+  color: aliceblue;
+
+}
+
+.main{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: auto;
+}
+

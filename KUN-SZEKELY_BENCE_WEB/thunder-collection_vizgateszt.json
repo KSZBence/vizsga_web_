@@ -1,0 +1,47 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "vizgateszt",
+    "collectionId": "ce3a973d-dee5-4f3b-b862-eb294c30519a",
+    "dateExported": "2024-05-21T15:14:18.897Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "9c6eebcc-4fb3-4d3b-bbc8-a70a19e8653d",
+            "colId": "ce3a973d-dee5-4f3b-b862-eb294c30519a",
+            "containerId": "",
+            "name": "http://localhost:8000/api/szavak/állatok",
+            "url": "http://localhost:8000/api/szavak/állatok",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-05-21T15:13:59.503Z",
+            "modified": "2024-05-21T15:13:59.503Z",
+            "headers": []
+        },
+        {
+            "_id": "6cd8ebc5-2359-44d8-bc3d-c3ff47160654",
+            "colId": "ce3a973d-dee5-4f3b-b862-eb294c30519a",
+            "containerId": "",
+            "name": "http://localhost:8000/szavak",
+            "url": "http://localhost:8000/api/szavak/állatok",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-05-21T15:14:05.609Z",
+            "modified": "2024-05-21T15:14:05.609Z",
+            "headers": []
+        },
+        {
+            "_id": "2c75d969-57d3-4136-851d-5c614f4089f3",
+            "colId": "ce3a973d-dee5-4f3b-b862-eb294c30519a",
+            "containerId": "",
+            "name": "http://localhost:8000/api/tema",
+            "url": "http://localhost:8000/api/tema",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2024-05-21T15:14:12.192Z",
+            "modified": "2024-05-21T15:14:12.192Z",
+            "headers": []
+        }
+    ],
+    "ref": "qnZllyoCYYIX_bG9bJh5_byOgkIk7oFBnD6dpkSTHTQXjPwI2LlFjSFwwJ1rODpabCbYe4hfoi8xMnXg7Yw4uA"
+}
